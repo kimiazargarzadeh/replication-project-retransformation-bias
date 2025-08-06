@@ -1,0 +1,11 @@
+,coefficient,std_error,p_value,observations
+log_transport_index_andrsn,0.2604,0.1507,0.084,11432.0
+log_transport_index_andrsn_5k,-0.4238,0.1732,0.0144,9840.0
+log_occupation_index_andrsn,-0.4795,0.1979,0.0154,9252.0
+log_occupation_index_andrsn_5k,0.0399,0.1548,0.7966,9427.0
+log_firms_index_andrsn,0.1171,0.1802,0.5157,9395.0
+log_firms_index_andrsn_5k,-0.1007,0.1604,0.5303,9751.0
+log_agriculture_index_andrsn,0.0023,0.1234,0.9852,9927.0
+log_consumption_index_andrsn,0.0255,0.1687,0.8798,9548.0
+log_consumption_index_andrsn_5k,-0.0172,0.1478,0.9073,9322.0
+log_unemp_5k,-0.0073,0.0068,0.2827,11403.0
